@@ -1,0 +1,1 @@
+java -cp ./lib/junit-4.11.jar $1

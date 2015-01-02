@@ -29,7 +29,7 @@
 							<mainClass>com.greatjin.picameraSE.TimeLapseCamera</mainClass>
 						</manifest>
 					</archive>
-				</configuration>
+				</configuration> 
 			</plugin>
 	 
 	 
